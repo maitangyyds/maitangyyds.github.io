@@ -1,0 +1,14 @@
+{
+  "api.dev": "http://api.halo.development/",
+  "api.test": "http://api.halo.test/",
+  "api.beta": "http://d3u34lobmll2hg.cloudfront.net/",
+  "api.prod": "https://d3u34lobmll2hg.cloudfront.net/",
+  "img.dev": "http://h5.halo.development/imgs/",
+  "img.test": "http://h5.halo.test/imgs/",
+  "img.beta": "http://d18wk1v6f4ra34.cloudfront.net/imgs/",
+  "img.prod": "https://d18wk1v6f4ra34.cloudfront.net/imgs/",
+  "upload.dev": "http://upload.halo.development/",
+  "upload.test": "http://upload.halo.test/",
+  "upload.beta": "http://d20lz49zmyzrtd.cloudfront.net/",
+  "upload.prod": "https://d20lz49zmyzrtd.cloudfront.net/"
+}
